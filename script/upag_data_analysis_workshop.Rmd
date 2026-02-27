@@ -851,3 +851,6 @@ Many common questions and answers: https://stackoverflow.com (top Google search 
 Amazing for debugging code and troubleshooting error messages https://chatgpt.com.
 
 Need to ask someone for help? Make a SSCCE https://sscce.org.
+
+
+
